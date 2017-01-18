@@ -2,9 +2,13 @@
 
 The FIU ACM's website implemented in Cljs!!!
 
+<p align="center">
+  <img align="center" src="assets/img/logo.png" height="150"/>
+</p>
+
 ## Overview
 
-They wanted React/Node but I gave them Ragent/Cljs!
+They wanted React/Node but I gave them Reagent/Cljs!
 
 This website can be the hub for the following club needs:
 
