@@ -1,6 +1,6 @@
-# fiuacm-website
+# fiuacm-website-cljs
 
-FIXME: Write a one-line description of your library/project.
+The FIU ACM's website implemented in Cljs!!!
 
 ## Overview
 
