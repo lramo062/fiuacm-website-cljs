@@ -3,7 +3,7 @@
 The FIU ACM's website implemented in Cljs!!!
 
 <p align="center">
-  <img align="center" src="assets/img/logo.png" height="150"/>
+  <img align="center" src="resources/public/img/logo.png" height="150"/>
 </p>
 
 ## Overview
@@ -49,6 +49,4 @@ get live reloading, nor a REPL.
 
 ## License
 
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.
+MIT
