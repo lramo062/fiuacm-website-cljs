@@ -1,0 +1,697 @@
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/fiuacm_website.js" in 0.28 seconds.[0m
+[36m----  Could not Read  src/fiuacm_website/core.cljs   line:27  column:48  ----[0m
+
+  [1mMap literal must contain an even number of forms[0m
+
+  [36m25[0m  [36m [:div {:class "logo"}[0m
+  [36m26[0m  [36m  [:img {:class "responsive-img" :src "resources/public/img/logo.png"}]][0m
+  [33m27[0m  [1m [:h1 {:class "wordmark" (:name @app-state)}][0m
+  [0m  [0m  [33m                                            ^--- Map literal must contain an even number of forms[0m
+  [36m28[0m  [36m [:p {:class "tagline" (:school @app-state)}]][0m
+  [36m29[0m  [36m[:ul {:class "tabs"}[0m
+  [36m30[0m  [36m [:li {:class "tab-link current" :data-tab "tab-1"} "Events"][0m
+
+[36m----  Reader Error : Please see src/fiuacm_website/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/fiuacm_website.js" in 0.274 seconds.[0m
+[36m----  Could not Read  src/fiuacm_website/core.cljs   line:20  column:1  ----[0m
+
+  [1mEOF while reading, starting at line 20 and column 1[0m
+
+  [36m18[0m  [36m  [:h1 (:text @app-state)])[0m
+  [36m19[0m  [36m[0m
+  [33m20[0m  [1m(defn main-container [][0m
+  [0m  [0m  [33m^--- EOF while reading, starting at line 20 and column 1[0m
+  [36m21[0m  [36m  [:div {:class "main-container"}[0m
+  [36m22[0m  [36m         [:p {:id "random_name_generator"}[0m
+  [36m23[0m  [36m          (:name @app-state)][0m
+
+[36m----  Reader Error : Please see src/fiuacm_website/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 2.42 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.362 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.344 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.342 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.336 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.334 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.374 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.369 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.355 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.345 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 1.181 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.372 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.365 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.33 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:78  column:70  ----[0m
+
+  [1mWrong number of args (2) passed to cljs.core/rand[0m
+
+  [36m75[0m  [36m(defn on-js-reload [][0m
+  [36m76[0m  [36m  ;; optionally touch your app-state to force rerendering depending on[0m
+  [36m77[0m  [36m  ;; your application[0m
+  [33m78[0m  [1m  (swap! app-state update-in [:random-string] (nth my-random-strings (rand 0 7)))[0m
+  [0m  [0m  [33m                                                                     ^--- Wrong number of args (2) passed to cljs.core/rand[0m
+  [36m79[0m  [36m)[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.35 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.427 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/fiuacm_website.js" in 0.211 seconds.[0m
+[36m----  Could not Read  src/fiuacm_website/core.cljs   line:63  column:7  ----[0m
+
+  [1mUnmatched delimiter ][0m
+
+  [36m61[0m  [36m       [:div {:class "location"} "PG6 105"]]][0m
+  [36m62[0m  [36m     ;; event -- ends here --[0m
+  [33m63[0m  [1m     ]]])[0m
+  [0m  [0m  [33m      ^--- Unmatched delimiter ][0m
+  [36m64[0m  [36m     [0m
+  [36m65[0m  [36m[0m
+  [36m66[0m  [36m(defn compositioner [][0m
+
+[36m----  Reader Error : Please see src/fiuacm_website/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/fiuacm_website.js" in 0.218 seconds.[0m
+[36m----  Could not Read  src/fiuacm_website/core.cljs   line:66  column:55  ----[0m
+
+  [1mUnmatched delimiter ][0m
+
+  [36m64[0m  [36m[:div {:class "body"}[0m
+  [36m65[0m  [36m [:div {:class "title"} (get event :title)][0m
+  [33m66[0m  [1m [:div {:class "subtitle"} (get event :subtitle]][0m
+  [0m  [0m  [33m                                                ^--- Unmatched delimiter ][0m
+  [36m67[0m  [36m[:div {:class "time-location"}[0m
+  [36m68[0m  [36m [:div {:class "datetime"}[0m
+  [36m69[0m  [36m  [:div {:class "time"} "12:00"][0m
+
+[36m----  Reader Error : Please see src/fiuacm_website/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/fiuacm_website.js" in 0.198 seconds.[0m
+[36m----  Could not Read  src/fiuacm_website/core.cljs   line:66  column:55  ----[0m
+
+  [1mUnmatched delimiter ][0m
+
+  [36m64[0m  [36m[:div {:class "body"}[0m
+  [36m65[0m  [36m [:div {:class "title"} (get event :title)][0m
+  [33m66[0m  [1m [:div {:class "subtitle"} (get event :subtitle]][0m
+  [0m  [0m  [33m                                                ^--- Unmatched delimiter ][0m
+  [36m67[0m  [36m[:div {:class "time-location"}[0m
+  [36m68[0m  [36m [:div {:class "datetime"}[0m
+  [36m69[0m  [36m  [:div {:class "time"} (get event :time)][0m
+
+[36m----  Reader Error : Please see src/fiuacm_website/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.361 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.349 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.348 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/fiuacm_website.js" in 0.24 seconds.[0m
+[36m----  Could not Read  src/fiuacm_website/core.cljs   line:74  column:45  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m72[0m  [36m     ;; event -- ends here --[0m
+  [36m73[0m  [36m  [:div {:id "tab-2" :class "tab-content"}][0m
+  [33m74[0m  [1m  [:div {:id "tab-2" :class "tab-content"}])[0m
+  [0m  [0m  [33m                                            ^--- Unmatched delimiter )[0m
+  [36m75[0m  [36m[0m
+  [36m76[0m  [36m(defn compositioner [][0m
+  [36m77[0m  [36m  [:div[0m
+
+[36m----  Reader Error : Please see src/fiuacm_website/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.398 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/fiuacm_website.js" in 0.237 seconds.[0m
+[36m----  Could not Read  src/fiuacm_website/core.cljs   line:80  column:46  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m78[0m  [36m   [events]][0m
+  [36m79[0m  [36m  [:div {:id "tab-2" :class "tab-content"}][0m
+  [33m80[0m  [1m  [:div {:id "tab-2" :class "tab-content"}]))[0m
+  [0m  [0m  [33m                                             ^--- Unmatched delimiter )[0m
+  [36m81[0m  [36m[0m
+  [36m82[0m  [36m[0m
+  [36m83[0m  [36m(reagent/render-component [compositioner][0m
+
+[36m----  Reader Error : Please see src/fiuacm_website/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.341 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.345 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:54  column:5  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/<div[0m
+
+  [36m50[0m  [36m     [:a {:href "https://orgsync.com/9704/chapter"} "OrgSync"]]]])  [0m
+  [36m51[0m  [36m    [0m
+  [36m52[0m  [36m[0m
+  [36m53[0m  [36m[0m
+  [33m54[0m  [1m    <div id="tab-1" class="tab-content current">[0m
+  [0m  [0m  [33m    ^--- Use of undeclared Var fiuacm-website.core/<div[0m
+  [36m55[0m  [36m      <div class="main-container tab-upcoming">[0m
+  [36m56[0m  [36m        <h2 class="section-header">Upcoming Events</h2>[0m
+  [36m57[0m  [36m        <div class="events-wrap">[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:54  column:10  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/id=[0m
+
+  [36m50[0m  [36m     [:a {:href "https://orgsync.com/9704/chapter"} "OrgSync"]]]])  [0m
+  [36m51[0m  [36m    [0m
+  [36m52[0m  [36m[0m
+  [36m53[0m  [36m[0m
+  [33m54[0m  [1m    <div id="tab-1" class="tab-content current">[0m
+  [0m  [0m  [33m         ^--- Use of undeclared Var fiuacm-website.core/id=[0m
+  [36m55[0m  [36m      <div class="main-container tab-upcoming">[0m
+  [36m56[0m  [36m        <h2 class="section-header">Upcoming Events</h2>[0m
+  [36m57[0m  [36m        <div class="events-wrap">[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:54  column:21  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/class=[0m
+
+  [36m50[0m  [36m     [:a {:href "https://orgsync.com/9704/chapter"} "OrgSync"]]]])  [0m
+  [36m51[0m  [36m    [0m
+  [36m52[0m  [36m[0m
+  [36m53[0m  [36m[0m
+  [33m54[0m  [1m    <div id="tab-1" class="tab-content current">[0m
+  [0m  [0m  [33m                    ^--- Use of undeclared Var fiuacm-website.core/class=[0m
+  [36m55[0m  [36m      <div class="main-container tab-upcoming">[0m
+  [36m56[0m  [36m        <h2 class="section-header">Upcoming Events</h2>[0m
+  [36m57[0m  [36m        <div class="events-wrap">[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:55  column:7  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/<div[0m
+
+  [36m54[0m  [36m<div id="tab-1" class="tab-content current">[0m
+  [33m55[0m  [1m  <div class="main-container tab-upcoming">[0m
+  [0m  [0m  [33m  ^--- Use of undeclared Var fiuacm-website.core/<div[0m
+  [36m56[0m  [36m    <h2 class="section-header">Upcoming Events</h2>[0m
+  [36m57[0m  [36m    <div class="events-wrap">[0m
+  [36m58[0m  [36m      [0m
+  [36m59[0m  [36m      [0m
+  [36m60[0m  [36m    </div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:55  column:12  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/class=[0m
+
+  [36m54[0m  [36m<div id="tab-1" class="tab-content current">[0m
+  [33m55[0m  [1m  <div class="main-container tab-upcoming">[0m
+  [0m  [0m  [33m       ^--- Use of undeclared Var fiuacm-website.core/class=[0m
+  [36m56[0m  [36m    <h2 class="section-header">Upcoming Events</h2>[0m
+  [36m57[0m  [36m    <div class="events-wrap">[0m
+  [36m58[0m  [36m      [0m
+  [36m59[0m  [36m      [0m
+  [36m60[0m  [36m    </div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:56  column:9  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/<h2[0m
+
+  [36m54[0m  [36m<div id="tab-1" class="tab-content current">[0m
+  [36m55[0m  [36m  <div class="main-container tab-upcoming">[0m
+  [33m56[0m  [1m    <h2 class="section-header">Upcoming Events</h2>[0m
+  [0m  [0m  [33m    ^--- Use of undeclared Var fiuacm-website.core/<h2[0m
+  [36m57[0m  [36m    <div class="events-wrap">[0m
+  [36m58[0m  [36m      [0m
+  [36m59[0m  [36m      [0m
+  [36m60[0m  [36m    </div>[0m
+  [36m61[0m  [36m  </div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:56  column:13  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/class=[0m
+
+  [36m54[0m  [36m<div id="tab-1" class="tab-content current">[0m
+  [36m55[0m  [36m  <div class="main-container tab-upcoming">[0m
+  [33m56[0m  [1m    <h2 class="section-header">Upcoming Events</h2>[0m
+  [0m  [0m  [33m        ^--- Use of undeclared Var fiuacm-website.core/class=[0m
+  [36m57[0m  [36m    <div class="events-wrap">[0m
+  [36m58[0m  [36m      [0m
+  [36m59[0m  [36m      [0m
+  [36m60[0m  [36m    </div>[0m
+  [36m61[0m  [36m  </div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:56  column:35  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/>Upcoming[0m
+
+  [36m54[0m  [36m<div id="tab-1" class="tab-content current">[0m
+  [36m55[0m  [36m  <div class="main-container tab-upcoming">[0m
+  [33m56[0m  [1m    <h2 class="section-header">Upcoming Events</h2>[0m
+  [0m  [0m  [33m                              ^--- Use of undeclared Var fiuacm-website.core/>Upcoming[0m
+  [36m57[0m  [36m    <div class="events-wrap">[0m
+  [36m58[0m  [36m      [0m
+  [36m59[0m  [36m      [0m
+  [36m60[0m  [36m    </div>[0m
+  [36m61[0m  [36m  </div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:56  column:45  ----[0m
+
+  [1mNo such namespace: Events<, could not locate Events_LT_.cljs, Events_LT_.cljc, or Closure namespace ""[0m
+
+  [36m54[0m  [36m<div id="tab-1" class="tab-content current">[0m
+  [36m55[0m  [36m  <div class="main-container tab-upcoming">[0m
+  [33m56[0m  [1m    <h2 class="section-header">Upcoming Events</h2>[0m
+  [0m  [0m  [33m                                        ^--- No such namespace: Events<, could not locate Events_LT_.cljs, Events_LT_.cljc, or Closure namespace ""[0m
+  [36m57[0m  [36m    <div class="events-wrap">[0m
+  [36m58[0m  [36m      [0m
+  [36m59[0m  [36m      [0m
+  [36m60[0m  [36m    </div>[0m
+  [36m61[0m  [36m  </div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:56  column:45  ----[0m
+
+  [1mUse of undeclared Var Events</h2>[0m
+
+  [36m54[0m  [36m<div id="tab-1" class="tab-content current">[0m
+  [36m55[0m  [36m  <div class="main-container tab-upcoming">[0m
+  [33m56[0m  [1m    <h2 class="section-header">Upcoming Events</h2>[0m
+  [0m  [0m  [33m                                        ^--- Use of undeclared Var Events</h2>[0m
+  [36m57[0m  [36m    <div class="events-wrap">[0m
+  [36m58[0m  [36m      [0m
+  [36m59[0m  [36m      [0m
+  [36m60[0m  [36m    </div>[0m
+  [36m61[0m  [36m  </div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:57  column:9  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/<div[0m
+
+  [36m54[0m  [36m<div id="tab-1" class="tab-content current">[0m
+  [36m55[0m  [36m  <div class="main-container tab-upcoming">[0m
+  [36m56[0m  [36m    <h2 class="section-header">Upcoming Events</h2>[0m
+  [33m57[0m  [1m    <div class="events-wrap">[0m
+  [0m  [0m  [33m    ^--- Use of undeclared Var fiuacm-website.core/<div[0m
+  [36m58[0m  [36m      [0m
+  [36m59[0m  [36m      [0m
+  [36m60[0m  [36m    </div>[0m
+  [36m61[0m  [36m  </div>[0m
+  [36m62[0m  [36m</div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:57  column:14  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/class=[0m
+
+  [36m54[0m  [36m<div id="tab-1" class="tab-content current">[0m
+  [36m55[0m  [36m  <div class="main-container tab-upcoming">[0m
+  [36m56[0m  [36m    <h2 class="section-header">Upcoming Events</h2>[0m
+  [33m57[0m  [1m    <div class="events-wrap">[0m
+  [0m  [0m  [33m         ^--- Use of undeclared Var fiuacm-website.core/class=[0m
+  [36m58[0m  [36m      [0m
+  [36m59[0m  [36m      [0m
+  [36m60[0m  [36m    </div>[0m
+  [36m61[0m  [36m  </div>[0m
+  [36m62[0m  [36m</div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:60  column:9  ----[0m
+
+  [1mNo such namespace: <, could not locate _LT_.cljs, _LT_.cljc, or Closure namespace ""[0m
+
+  [36m56[0m  [36m    <h2 class="section-header">Upcoming Events</h2>[0m
+  [36m57[0m  [36m    <div class="events-wrap">[0m
+  [36m58[0m  [36m      [0m
+  [36m59[0m  [36m      [0m
+  [33m60[0m  [1m    </div>[0m
+  [0m  [0m  [33m    ^--- No such namespace: <, could not locate _LT_.cljs, _LT_.cljc, or Closure namespace ""[0m
+  [36m61[0m  [36m  </div>[0m
+  [36m62[0m  [36m</div>[0m
+  [36m63[0m  [36m<div id="tab-2" class="tab-content">[0m
+  [36m64[0m  [36m</div>[0m
+  [36m65[0m  [36m<div id="tab-3" class="tab-content">[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:60  column:9  ----[0m
+
+  [1mUse of undeclared Var </div>[0m
+
+  [36m56[0m  [36m    <h2 class="section-header">Upcoming Events</h2>[0m
+  [36m57[0m  [36m    <div class="events-wrap">[0m
+  [36m58[0m  [36m      [0m
+  [36m59[0m  [36m      [0m
+  [33m60[0m  [1m    </div>[0m
+  [0m  [0m  [33m    ^--- Use of undeclared Var </div>[0m
+  [36m61[0m  [36m  </div>[0m
+  [36m62[0m  [36m</div>[0m
+  [36m63[0m  [36m<div id="tab-2" class="tab-content">[0m
+  [36m64[0m  [36m</div>[0m
+  [36m65[0m  [36m<div id="tab-3" class="tab-content">[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:61  column:7  ----[0m
+
+  [1mNo such namespace: <, could not locate _LT_.cljs, _LT_.cljc, or Closure namespace ""[0m
+
+  [36m57[0m  [36m    <div class="events-wrap">[0m
+  [36m58[0m  [36m      [0m
+  [36m59[0m  [36m      [0m
+  [36m60[0m  [36m    </div>[0m
+  [33m61[0m  [1m  </div>[0m
+  [0m  [0m  [33m  ^--- No such namespace: <, could not locate _LT_.cljs, _LT_.cljc, or Closure namespace ""[0m
+  [36m62[0m  [36m</div>[0m
+  [36m63[0m  [36m<div id="tab-2" class="tab-content">[0m
+  [36m64[0m  [36m</div>[0m
+  [36m65[0m  [36m<div id="tab-3" class="tab-content">[0m
+  [36m66[0m  [36m</div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:61  column:7  ----[0m
+
+  [1mUse of undeclared Var </div>[0m
+
+  [36m57[0m  [36m    <div class="events-wrap">[0m
+  [36m58[0m  [36m      [0m
+  [36m59[0m  [36m      [0m
+  [36m60[0m  [36m    </div>[0m
+  [33m61[0m  [1m  </div>[0m
+  [0m  [0m  [33m  ^--- Use of undeclared Var </div>[0m
+  [36m62[0m  [36m</div>[0m
+  [36m63[0m  [36m<div id="tab-2" class="tab-content">[0m
+  [36m64[0m  [36m</div>[0m
+  [36m65[0m  [36m<div id="tab-3" class="tab-content">[0m
+  [36m66[0m  [36m</div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:62  column:5  ----[0m
+
+  [1mNo such namespace: <, could not locate _LT_.cljs, _LT_.cljc, or Closure namespace ""[0m
+
+  [36m60[0m  [36m    </div>[0m
+  [36m61[0m  [36m  </div>[0m
+  [33m62[0m  [1m</div>[0m
+  [0m  [0m  [33m^--- No such namespace: <, could not locate _LT_.cljs, _LT_.cljc, or Closure namespace ""[0m
+  [36m63[0m  [36m<div id="tab-2" class="tab-content">[0m
+  [36m64[0m  [36m</div>[0m
+  [36m65[0m  [36m<div id="tab-3" class="tab-content">[0m
+  [36m66[0m  [36m</div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:62  column:5  ----[0m
+
+  [1mUse of undeclared Var </div>[0m
+
+  [36m60[0m  [36m    </div>[0m
+  [36m61[0m  [36m  </div>[0m
+  [33m62[0m  [1m</div>[0m
+  [0m  [0m  [33m^--- Use of undeclared Var </div>[0m
+  [36m63[0m  [36m<div id="tab-2" class="tab-content">[0m
+  [36m64[0m  [36m</div>[0m
+  [36m65[0m  [36m<div id="tab-3" class="tab-content">[0m
+  [36m66[0m  [36m</div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:63  column:5  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/<div[0m
+
+  [36m60[0m  [36m    </div>[0m
+  [36m61[0m  [36m  </div>[0m
+  [36m62[0m  [36m</div>[0m
+  [33m63[0m  [1m<div id="tab-2" class="tab-content">[0m
+  [0m  [0m  [33m^--- Use of undeclared Var fiuacm-website.core/<div[0m
+  [36m64[0m  [36m</div>[0m
+  [36m65[0m  [36m<div id="tab-3" class="tab-content">[0m
+  [36m66[0m  [36m</div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:63  column:10  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/id=[0m
+
+  [36m60[0m  [36m    </div>[0m
+  [36m61[0m  [36m  </div>[0m
+  [36m62[0m  [36m</div>[0m
+  [33m63[0m  [1m<div id="tab-2" class="tab-content">[0m
+  [0m  [0m  [33m     ^--- Use of undeclared Var fiuacm-website.core/id=[0m
+  [36m64[0m  [36m</div>[0m
+  [36m65[0m  [36m<div id="tab-3" class="tab-content">[0m
+  [36m66[0m  [36m</div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:63  column:21  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/class=[0m
+
+  [36m60[0m  [36m    </div>[0m
+  [36m61[0m  [36m  </div>[0m
+  [36m62[0m  [36m</div>[0m
+  [33m63[0m  [1m<div id="tab-2" class="tab-content">[0m
+  [0m  [0m  [33m                ^--- Use of undeclared Var fiuacm-website.core/class=[0m
+  [36m64[0m  [36m</div>[0m
+  [36m65[0m  [36m<div id="tab-3" class="tab-content">[0m
+  [36m66[0m  [36m</div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:64  column:5  ----[0m
+
+  [1mNo such namespace: <, could not locate _LT_.cljs, _LT_.cljc, or Closure namespace ""[0m
+
+  [36m60[0m  [36m    </div>[0m
+  [36m61[0m  [36m  </div>[0m
+  [36m62[0m  [36m</div>[0m
+  [36m63[0m  [36m<div id="tab-2" class="tab-content">[0m
+  [33m64[0m  [1m</div>[0m
+  [0m  [0m  [33m^--- No such namespace: <, could not locate _LT_.cljs, _LT_.cljc, or Closure namespace ""[0m
+  [36m65[0m  [36m<div id="tab-3" class="tab-content">[0m
+  [36m66[0m  [36m</div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:64  column:5  ----[0m
+
+  [1mUse of undeclared Var </div>[0m
+
+  [36m60[0m  [36m    </div>[0m
+  [36m61[0m  [36m  </div>[0m
+  [36m62[0m  [36m</div>[0m
+  [36m63[0m  [36m<div id="tab-2" class="tab-content">[0m
+  [33m64[0m  [1m</div>[0m
+  [0m  [0m  [33m^--- Use of undeclared Var </div>[0m
+  [36m65[0m  [36m<div id="tab-3" class="tab-content">[0m
+  [36m66[0m  [36m</div>[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:65  column:5  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/<div[0m
+
+  [36m61[0m  [36m      </div>[0m
+  [36m62[0m  [36m    </div>[0m
+  [36m63[0m  [36m    <div id="tab-2" class="tab-content">[0m
+  [36m64[0m  [36m    </div>[0m
+  [33m65[0m  [1m    <div id="tab-3" class="tab-content">[0m
+  [0m  [0m  [33m    ^--- Use of undeclared Var fiuacm-website.core/<div[0m
+  [36m66[0m  [36m    </div>[0m
+  [36m67[0m  [36m[0m
+  [36m68[0m  [36m[0m
+  [36m69[0m  [36m[0m
+  [36m70[0m  [36m(defn events [][0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:65  column:10  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/id=[0m
+
+  [36m61[0m  [36m      </div>[0m
+  [36m62[0m  [36m    </div>[0m
+  [36m63[0m  [36m    <div id="tab-2" class="tab-content">[0m
+  [36m64[0m  [36m    </div>[0m
+  [33m65[0m  [1m    <div id="tab-3" class="tab-content">[0m
+  [0m  [0m  [33m         ^--- Use of undeclared Var fiuacm-website.core/id=[0m
+  [36m66[0m  [36m    </div>[0m
+  [36m67[0m  [36m[0m
+  [36m68[0m  [36m[0m
+  [36m69[0m  [36m[0m
+  [36m70[0m  [36m(defn events [][0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:65  column:21  ----[0m
+
+  [1mUse of undeclared Var fiuacm-website.core/class=[0m
+
+  [36m61[0m  [36m      </div>[0m
+  [36m62[0m  [36m    </div>[0m
+  [36m63[0m  [36m    <div id="tab-2" class="tab-content">[0m
+  [36m64[0m  [36m    </div>[0m
+  [33m65[0m  [1m    <div id="tab-3" class="tab-content">[0m
+  [0m  [0m  [33m                    ^--- Use of undeclared Var fiuacm-website.core/class=[0m
+  [36m66[0m  [36m    </div>[0m
+  [36m67[0m  [36m[0m
+  [36m68[0m  [36m[0m
+  [36m69[0m  [36m[0m
+  [36m70[0m  [36m(defn events [][0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:66  column:5  ----[0m
+
+  [1mNo such namespace: <, could not locate _LT_.cljs, _LT_.cljc, or Closure namespace ""[0m
+
+  [36m62[0m  [36m    </div>[0m
+  [36m63[0m  [36m    <div id="tab-2" class="tab-content">[0m
+  [36m64[0m  [36m    </div>[0m
+  [36m65[0m  [36m    <div id="tab-3" class="tab-content">[0m
+  [33m66[0m  [1m    </div>[0m
+  [0m  [0m  [33m    ^--- No such namespace: <, could not locate _LT_.cljs, _LT_.cljc, or Closure namespace ""[0m
+  [36m67[0m  [36m[0m
+  [36m68[0m  [36m[0m
+  [36m69[0m  [36m[0m
+  [36m70[0m  [36m(defn events [][0m
+  [36m71[0m  [36m  [:div {:id "tab-1" :class "tab-content current"}[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/fiuacm_website/core.cljs   line:66  column:5  ----[0m
+
+  [1mUse of undeclared Var </div>[0m
+
+  [36m62[0m  [36m    </div>[0m
+  [36m63[0m  [36m    <div id="tab-2" class="tab-content">[0m
+  [36m64[0m  [36m    </div>[0m
+  [36m65[0m  [36m    <div id="tab-3" class="tab-content">[0m
+  [33m66[0m  [1m    </div>[0m
+  [0m  [0m  [33m    ^--- Use of undeclared Var </div>[0m
+  [36m67[0m  [36m[0m
+  [36m68[0m  [36m[0m
+  [36m69[0m  [36m[0m
+  [36m70[0m  [36m(defn events [][0m
+  [36m71[0m  [36m  [:div {:id "tab-1" :class "tab-content current"}[0m
+
+[36m----  Compiler Warning : Please see src/fiuacm_website/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.734 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.346 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.326 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.378 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.334 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.337 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/fiuacm_website.js" in 0.204 seconds.[0m
+[36m----  Could not Read  src/fiuacm_website/core.cljs   line:45  column:53  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m43[0m  [36m[:div {:class "main-container"}[0m
+  [36m44[0m  [36m [:p {:id "random_name_generator"}[0m
+  [33m45[0m  [1m  (get (:random-strings @app-state) (rand-int 7)))][0m
+  [0m  [0m  [33m                                                  ^--- Unmatched delimiter )[0m
+  [36m46[0m  [36m [:div {:class "brand"}[0m
+  [36m47[0m  [36m  [:div {:class "logo"}[0m
+  [36m48[0m  [36m   [:img {:class "responsive-img" :src "/img/logo.png"}]][0m
+
+[36m----  Reader Error : Please see src/fiuacm_website/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.341 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 1.144 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.391 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
+Notifyng browser that CSS file changed: resources/public/css/styles.css
+[0mCompiling "resources/public/js/compiled/fiuacm_website.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/fiuacm_website.js" in 0.473 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/fiuacm_website/core.js
