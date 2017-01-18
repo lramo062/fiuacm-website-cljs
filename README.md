@@ -4,7 +4,18 @@ The FIU ACM's website implemented in Cljs!!!
 
 ## Overview
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
+They wanted React/Node but I gave them Ragent/Cljs!
+
+This website can be the hub for the following club needs:
+
+* Events dates and times
+* Event video recordings and complementary workshop notes
+* Social Media References
+* ... and many more!
+
+## License
+MIT
+
 
 ## Setup
 
