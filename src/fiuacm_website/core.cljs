@@ -3,9 +3,6 @@
 
 (enable-console-print!)
 
-
-;; define your app data so that it doesn't get over-written on reload
-
 (defonce app-state (atom {:org "Association for Computing Machinery"
                           :school "Florida International University"
                           :random-strings   ["American Cheese Monkeys" 
@@ -30,16 +27,14 @@
                                              "Angel’s Copper Memoriam" 
                                              "Alastair`s Chink Men" 
                                              "Alive Chocolate Mannequins" 
-                                             "Amazing Coding Memes" 
-  ]
+                                             "Amazing Coding Memes" ]
                           :events [{:day "27"
                                     :month "Jan"
                                     :title "Machine Learning: Regression"
                                     :subtitle "Introduction to Machine Learning and Regression"
                                     :time "12:00"
                                     :period "PM"
-                                    :location "PG6 105"}
-                                   
+                                    :location "PG6 105"}                                   
                                    {:day "3"
                                     :month "Feb"
                                     :title "Architectures: Go Mobile with Swift!"
@@ -55,7 +50,6 @@
                                     :period "PM"
                                     :location "PG6 105"}]}))
 
-
 (defn main-container []
   [:div {:class "main-container"}
    [:p {:id "random_name_generator"}
@@ -70,9 +64,7 @@
     [:li {:class "tab-link"}
      [:a {:href "https://www.facebook.com/ACMatFIU/"} "Facebook"]]
     [:li {:class "tab-link"}
-     [:a {:href "https://orgsync.com/9704/chapter"} "OrgSync"]]]])  
-    
-
+     [:a {:href "https://orgsync.com/9704/chapter"} "OrgSync"]]]])
 
 (defn events []
   [:div {:id "tab-1" :class "tab-content current"}
@@ -103,8 +95,6 @@
   [:div
    [main-container]
    [events]])
-
-
 
 (reagent/render-component [compositioner]
                           (. js/document (getElementById "app")))
